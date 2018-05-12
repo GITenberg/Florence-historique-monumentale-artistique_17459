@@ -1,0 +1,28 @@
+_repo: Florence-historique-monumentale-artistique_17459
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Niké, Marcel
+    aliases:
+    - Nike, Marcel
+    - Marcel Niké
+    gutenberg_agent_id: '7403'
+    url: http://www.gutenberg.org/2009/agents/7403
+description: ''
+gutenberg_bookshelf: FR Villes
+gutenberg_issued: '2006-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17459'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Florence (Italy) -- Guidebooks'
+- !lcc 'DG'
+title: Florence historique, monumentale, artistique
+url: http://www.gutenberg.org/ebooks/17459
